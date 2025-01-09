@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BAOCAODOANHSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DOIMATKHAU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="THONGTINPM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PHIEUNHAPVTPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BAOCAOTON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSHIEUXE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUATIENCONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LIENHE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSPNKVTPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSPHIEUSUACHUA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSPHIEUTHUTIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUAVTPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CAPNHATTILELAI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DANGNHAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MANHINHCHINH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CAPNHATSOXE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSVTPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PHIEUTHUTIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PHIEUSUACHUA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TIEPNHANXE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="THEMHIEUXE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="THEMTIENCONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DSTIENCONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
